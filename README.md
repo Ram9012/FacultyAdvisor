@@ -1,1 +1,1 @@
-# appathon2
+An app for Sona Faculty Advisor
